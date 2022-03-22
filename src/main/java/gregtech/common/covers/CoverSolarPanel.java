@@ -8,6 +8,8 @@ import gregtech.api.capability.GregtechCapabilities;
 import gregtech.api.capability.IEnergyContainer;
 import gregtech.api.cover.CoverBehavior;
 import gregtech.api.cover.ICoverable;
+import gregtech.api.metatileentity.MetaTileEntity;
+import gregtech.api.metatileentity.MetaTileEntityHolder;
 import gregtech.api.util.GTUtility;
 import gregtech.client.renderer.texture.Textures;
 import gregtech.client.renderer.texture.cube.SimpleSidedCubeRenderer;
